@@ -7,7 +7,7 @@ const Footer = (props) => {
       <div className='bgGradient'></div>
       <div>
             <h2>{data?.title}</h2>
-            <h1>APOD PROJECT</h1>
+            <h1>APOD PROJECT  BY SANKET</h1>
             
       </div>
         
